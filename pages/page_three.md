@@ -16,4 +16,6 @@ Some facts about JabRef:
 
 While I would trust this program to assist with my thesis, I also generally prefer to handle this kind of minutiae with my own organized file system on my laptop. 
 
+The see the project on GitHub, refer to this link: https://github.com/JabRef/jabref?tab=contributing-ov-file
+
 ![The Seagull](./assets/images/seagull.jpg)

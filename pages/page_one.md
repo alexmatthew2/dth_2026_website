@@ -1,8 +1,6 @@
 # Page one
 
-## The Advantages of Open Source Software 
-
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+## The Advantages of Open Source Software
 
 The advantages of open source software are worth highlighting not just for tech enthusiasts, but for everyday users of digital technology. As technology becomes more and more integrated into our daily lives, it is important to be able to exercise some form of control over it, lest we cede our virtual spaces for work and creativity to corporations with profit-centered motivations. Open source software is ultimately about exercising true ownership over our own machines. 
 

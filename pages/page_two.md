@@ -8,6 +8,8 @@ A myth about open source software, for example, is that it is less secure due to
 
 A more serious disadvantage for open source software is the compatability issue. Proprietary, commercial software is widespread and oftentimes required for jobs and schooling, and frequently neglects to support open source programs or operating systems. Part of this can be attributed to the fact that open source software tends to have a smaller market share than its competitors, but it would not be surprising either if companies deliberately refused to support software that is a free competitor to their own products. An example of this is actually Wiseflow’s device-monitoring software. It does not support Linux, so in order to pass my exams last winter, I needed to borrow a different computer. 
 
+## References
+
 Wallen, J. (2010, February 9). Myth busting: Is linux immune to viruses? Linux.com. https://www.linux.com/training-tutorials/myth-busting-linux-immune-viruses/
 
 ![The Mayor](./assets/images/mayor.jpg)

@@ -10,6 +10,8 @@ Having switched to Ubuntu Linux several years ago for the operating system on my
 
 While there are disadvantages to this level of control, as I could irreparably damage my device if I went into the terminal and started entering dangerous code with sudo permissions, oftentimes this is not a bad tradeoff. It is ultimately useful to have control over a countless number of micro-decisions, and in many matters in life, people prefer to have choices, even if it means they could make a bad one. 
 
+## References
+
 Gerken, T. (2024, January 8). Apple pays out over claims it deliberately slowed down iPhones. *www.bbc.com.* https://www.bbc.com/news/technology-67911517
 
 ![The beach at Skagen](./assets/images/mountains.jpg)

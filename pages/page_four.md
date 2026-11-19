@@ -8,4 +8,4 @@ These are words to write.
 
 Wallen, J. 
 
-![The Mayor](./assets/images/mayor.jpg)
+![The Oceanside](./assets/images/wheat.jpg)

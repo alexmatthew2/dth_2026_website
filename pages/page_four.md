@@ -8,4 +8,4 @@ These are words to write.
 
 Wallen, J. 
 
-![The Oceanside](./assets/images/wheat.JPG)
+![The Oceanside](./assets/images/Wheat.JPG)

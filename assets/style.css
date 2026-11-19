@@ -1,7 +1,7 @@
 /* root setup */
 
 /* here we import the Lexend font from Google fonts. You can browse other fonts at https://fonts.google.com/*/
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
 :root {
@@ -67,7 +67,7 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/mayor.jpg");
+  background-image: url("./images/seagull.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -233,6 +233,114 @@ main img {
 #page_three h2 { color: var(--green); }
 
 #page_four h2 { color: var(--purple); }
+
+.fira-sans-thin {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.fira-sans-extralight {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.fira-sans-light {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fira-sans-medium {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.fira-sans-semibold {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.fira-sans-bold {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.fira-sans-extrabold {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.fira-sans-black {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.fira-sans-thin-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.fira-sans-extralight-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.fira-sans-light-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.fira-sans-regular-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.fira-sans-medium-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.fira-sans-semibold-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.fira-sans-bold-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.fira-sans-extrabold-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.fira-sans-black-italic {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
 
 #totalCount {
   align-self: center;

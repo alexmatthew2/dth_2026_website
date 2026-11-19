@@ -13,7 +13,7 @@
   --purple: #7f53a7;
   --red: #c52134;
   --yellow: #fddd0d;
-  --projectFont: Lexend, Arial, .fira-sans-regular, sans-serif;
+  --projectFont: Fira, .fira-sans-regular, Lexend, Arial, sans-serif;
 }
 
 /* individual element styles */
